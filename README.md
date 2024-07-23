@@ -54,4 +54,3 @@ For more information, refer to the respective tool documentation:
 - [iverilog](https://bleyer.org/icarus/)
 - [ghdl](https://github.com/ghdl/ghdl/)
 - [gtkwave](https://gtkwave.sourceforge.net/)
-``` 
